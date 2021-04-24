@@ -1,1 +1,1 @@
-THis is a first Spring project highlighting DI
+THis is a Spring MVC project highlighting DI
