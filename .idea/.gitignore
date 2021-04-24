@@ -1,0 +1,8 @@
+# Default ignored files
+/workspace.xml
+/misc.xml
+/modules.xml
+/vcs.xml
+/libraries/Spring_5_2_3_RELEASE.xml
+/libraries/Spring_MVC_5_2_3_RELEASE.xml
+/artifacts/Hello_World2_war_exploded.xml
